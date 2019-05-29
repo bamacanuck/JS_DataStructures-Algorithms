@@ -11,3 +11,9 @@ function myOtherFunction() {
     return myOtherVariable;
 }
 
+console.log(myVariable); // 1
+
+console.log(myFunction()); // 2
+
+console.log(myOtherVariable); // 3
+
