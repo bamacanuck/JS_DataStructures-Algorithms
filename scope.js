@@ -7,7 +7,7 @@ function myFunction() {
 }
 
 function myOtherFunction() {
-    let myOtherVariable = 'local';
+    myOtherVariable = 'local';
     return myOtherVariable;
 }
 
